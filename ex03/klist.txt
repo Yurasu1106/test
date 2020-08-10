@@ -1,0 +1,6 @@
+Credentials cache: API:40ADD301-7FBB-4E85-89C7-C9E7527CB547
+        Principal: srazack-@42LYON.FR
+
+  Issued                Expires               Principal
+Aug 10 12:05:16 2020  Aug 10 22:05:16 2020  krbtgt/42LYON.FR@42LYON.FR
+Aug 10 12:05:18 2020  Aug 10 22:05:16 2020  HTTP/san-ssd.42lyon.fr@42LYON.FR
